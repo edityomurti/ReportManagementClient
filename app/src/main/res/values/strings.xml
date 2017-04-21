@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Report Management</string>
+    <string name="title_activity_view_report">ViewReportActivity</string>
+</resources>
