@@ -49,26 +49,12 @@ ADDED from F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementC
 		ADDED from F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\src\main\AndroidManifest.xml:16:22-62
 application
 ADDED from F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\src\main\AndroidManifest.xml:19:5-72:19
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:cardview-v7:23.0.1] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Moer\.android\build-cache\115684ae11e303f91faac665fa2bffdb8a406c75\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Moer\.android\build-cache\77872987d824ce6cc7f3d7532e3c5823b9e71f6d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Moer\.android\build-cache\effcc4040908b52a1d0cd9cbf6e98f257d08d5a7\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Moer\.android\build-cache\27624867ae2ccbedb43bb8b721ae58142c99ee02\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:cardview-v7:23.0.1] C:\Users\Moer\.android\build-cache\d2828ae5ef5813545cc0ed7c3168c9e2d269a133\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Moer\.android\build-cache\d13e1b1a150ea9183b88e622198717a01cba67d2\output\AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\src\main\AndroidManifest.xml:22:9-41
 	android:supportsRtl
@@ -165,30 +151,15 @@ ADDED from F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementC
 		ADDED from F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\src\main\AndroidManifest.xml:67:19-61
 uses-sdk
 INJECTED from F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:23.0.1] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\Moer\.android\build-cache\115684ae11e303f91faac665fa2bffdb8a406c75\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Moer\.android\build-cache\77872987d824ce6cc7f3d7532e3c5823b9e71f6d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Moer\.android\build-cache\effcc4040908b52a1d0cd9cbf6e98f257d08d5a7\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Moer\.android\build-cache\27624867ae2ccbedb43bb8b721ae58142c99ee02\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:cardview-v7:23.0.1] C:\Users\Moer\.android\build-cache\d2828ae5ef5813545cc0ed7c3168c9e2d269a133\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Moer\.android\build-cache\f020a15de06c949ac9081c1fb0f4a7ea954e10f3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Moer\.android\build-cache\d13e1b1a150ea9183b88e622198717a01cba67d2\output\AndroidManifest.xml:20:5-43
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Moer\.android\build-cache\77872987d824ce6cc7f3d7532e3c5823b9e71f6d\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\src\main\AndroidManifest.xml
 		INJECTED from F:\Documents\PROJECTS\Kerja Praktek\Android Project\ReportManagementClient\app\src\main\AndroidManifest.xml

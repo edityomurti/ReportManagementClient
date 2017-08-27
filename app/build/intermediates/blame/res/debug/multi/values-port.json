@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\Documents\\PROJECTS\\Kerja Praktek\\Android Project\\ReportManagementClient\\app\\build\\intermediates\\res\\merged\\debug\\values-port\\values-port.xml",
+        "outputFile": "F:\\Documents\\PROJECTS\\Kerja Praktek\\Android Project\\ReportManagementClient\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "F:\\Documents\\PROJECTS\\Kerja Praktek\\Android Project\\ReportManagementClient\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-port\\values-port.xml",
+                    "file": "C:\\Users\\Moer\\.android\\build-cache\\77872987d824ce6cc7f3d7532e3c5823b9e71f6d\\output\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
