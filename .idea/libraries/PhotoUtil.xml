@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PhotoUtil">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/PhotoUtil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

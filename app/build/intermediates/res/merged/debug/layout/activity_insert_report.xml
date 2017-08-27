@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="25dp"
+        android:focusableInTouchMode="true">
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:orientation="horizontal"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="8dp"
+            >
+            <TextView
+                android:layout_width="110dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvDate"
+                android:textSize="18sp"
+                android:layout_marginRight="5dp"
+                android:padding="10dp"
+                android:color="#ff9900"
+                android:text="Date" />
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/ivDate"
+                android:layout_toRightOf="@+id/EtDate"
+                android:shadowColor="#5c5c57"
+                android:shadowRadius="4"
+                android:shadowDx="3"
+                android:shadowDy="3"
+                android:src="@drawable/calendar" />
+        </LinearLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            >
+
+            <EditText
+                android:layout_width="280dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/etProject"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="5dp"
+                android:padding="10dp"
+                android:color="#ff9900"
+                android:hint="Project"/>
+        </android.support.design.widget.TextInputLayout>
+
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp">
+            <EditText
+                android:layout_width="280dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/etActivity"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="5dp"
+                android:padding="10dp"
+                android:color="#448aff"
+                android:hint="Activity"/>
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp">
+
+            <EditText
+                android:id="@+id/etDesc"
+                android:layout_width="280dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="top"
+                android:hint="Description"/>
+
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/TvStatus"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="16dp"
+                android:text="Status"
+                />
+
+            <Spinner
+                android:id="@+id/sStatus"
+                android:layout_width="200dp"
+                android:layout_height="45dp"
+                android:layout_marginTop="5dp"
+                android:gravity="center_vertical"
+                android:background="@android:drawable/btn_dropdown"
+                android:spinnerMode="dropdown" />
+        </android.support.design.widget.TextInputLayout>
+
+        <ImageView
+            android:layout_width="65dp"
+            android:layout_height="65dp"
+            android:scaleType="fitCenter"
+            android:id="@+id/ivAttach"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="16dp"
+            android:src="@drawable/bt_attach"/>
+
+        <TextView
+            android:id="@+id/tvDeleteImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="Delete image"
+            android:textColor="@android:color/holo_blue_light"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/tvSave"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_below="@+id/ivAttach"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:background="@drawable/rect_gray_rounded"
+            android:textSize="18sp"
+            android:text="SAVE"/>
+     </LinearLayout>
+</ScrollView>

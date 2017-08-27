@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="25dp"
+    android:orientation="vertical"
+    tools:context="com.solusi247.reportmanagement.activity.ExportCsvActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvFrom"
+        android:textSize="18sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:color="#ff9900"
+        android:text="From :"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/llFromDate"
+        android:layout_marginLeft="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:background="@drawable/rect_accent">
+        <TextView
+            android:id="@+id/tvFromDate"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:layout_marginRight="5dp"
+            android:padding="10dp"
+            android:color="#ff9900"
+            android:text="Date" />
+        <ImageView
+            android:id="@+id/ivFromDate"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_toRightOf="@+id/EtDate"
+            android:shadowColor="#5c5c57"
+            android:shadowRadius="4"
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:src="@drawable/calendar" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_marginTop="30dp"
+        android:layout_height="2dp"
+        android:background="@color/colorPrimary"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvUntil"
+        android:textSize="18sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="30dp"
+        android:padding="10dp"
+        android:color="#ff9900"
+        android:text="Until :"/>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/llUntilDate"
+        android:layout_marginLeft="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:background="@drawable/rect_accent">
+        <TextView
+            android:id="@+id/tvUntilDate"
+            android:layout_width="110dp"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:layout_marginRight="5dp"
+            android:padding="10dp"
+            android:color="#ff9900"
+            android:text="Date" />
+        <ImageView
+            android:id="@+id/ivUntilDate"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_toRightOf="@+id/EtDate"
+            android:shadowColor="#5c5c57"
+            android:shadowRadius="4"
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:src="@drawable/calendar" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvExport"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/ivAttach"
+        android:layout_marginTop="80dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:background="@drawable/rect_gray_rounded"
+        android:textSize="18sp"
+        android:text="EXPORT"/>
+
+</LinearLayout>
